@@ -4,3 +4,6 @@ modificacion de git
 cambio de local
 
 ----cambio de local tarea----
+
+
+---cambio de remoto tarea---
